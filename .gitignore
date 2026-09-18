@@ -1,0 +1,15 @@
+# compiled output
+/dist
+/out-tsc
+/bazel-out
+
+# dependencies
+/node_modules
+
+# IDEs and editors
+/.angular
+.idea/
+.vscode/
+
+.npm-cache/
+outputs/
